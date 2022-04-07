@@ -1,5 +1,5 @@
 hello M F
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "ttititles"
+date: 2022-04-07
 ---
